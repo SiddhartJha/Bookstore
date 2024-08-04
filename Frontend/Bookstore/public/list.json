@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "story book",
+        "title": "Horror",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1722684537~exp=1722688137~hmac=9ab7fd0212d55384f9c495327383caf2031ffda9317493618a9f117ca4959b54&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Space book",
+        "title": "cosmos",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1722684537~exp=1722688137~hmac=9ab7fd0212d55384f9c495327383caf2031ffda9317493618a9f117ca4959b54&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Story Haven",
+        "title": "Fiction Fables",
+        "price": 50,
+        "category": "Fiction",
+        "image": "https://images.stockcake.com/public/5/f/2/5f2b647d-60e3-404c-a136-2dc589f80b8a_large/colorful-book-tower-stockcake.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Detective's Den",
+        "title": "Mystery Manor",
+        "price": 100,
+        "category": "Mystery&Thriller",
+        "image": "https://img.freepik.com/free-vector/open-book-with-radiant-light_1308-171960.jpg?ga=GA1.1.1002776083.1722607336&semt=ais_hybrid"
+    },
+    {
+        "id": 5,
+        "name": "Love's Library",
+        "title": "Romance Retreat",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1722684537~exp=1722688137~hmac=9ab7fd0212d55384f9c495327383caf2031ffda9317493618a9f117ca4959b54&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Growth Garden",
+        "title": "Self-Help sanctuary",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1722684537~exp=1722688137~hmac=9ab7fd0212d55384f9c495327383caf2031ffda9317493618a9f117ca4959b54&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Past Pages",
+        "title": "Historical Horizons",
+        "price": 200,
+        "category": "Historical Fiction",
+        "image": "https://img.freepik.com/free-vector/open-book-with-radiant-light_1308-171960.jpg?ga=GA1.1.1002776083.1722607336&semt=ais_hybrid"
+    },
+    {
+        "id": 8,
+        "name": "Wisdom well",
+        "title": "Knowledge Nook",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1722684537~exp=1722688137~hmac=9ab7fd0212d55384f9c495327383caf2031ffda9317493618a9f117ca4959b54&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Sports stories",
+        "title": "Sports Gallery",
+        "price": 250,
+        "category": "Sports",
+        "image": "https://img.freepik.com/free-vector/open-book-with-radiant-light_1308-171960.jpg?ga=GA1.1.1002776083.1722607336&semt=ais_hybrid"
+    },
+    {
+        "id": 10,
+        "name": "Mathematics world",
+        "title": "Mathematics",
+        "price": 0,
+        "category": "free ",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1722684537~exp=1722688137~hmac=9ab7fd0212d55384f9c495327383caf2031ffda9317493618a9f117ca4959b54&w=740"
+    }
+]
